@@ -1,1 +1,3 @@
 # DjangoIDGenerator
+
+test
